@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Carolina
 #### I am an Economist and Mathematician.
-![I am an Economist and Mathematician.](https://www.linkedin.com/in/carolina-bockmeulen-ba9017a8/)
+[I am an Economist and Mathematician.]
 
 Here I will showcase some of the projects I have worked on thorughtout my courses and work experience.
 
