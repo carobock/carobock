@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 
+Here I will showcase some of the projects I have worked on thorughtout my courses and work experience.
 
 <!--
 **carobock/carobock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
