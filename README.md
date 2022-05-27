@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there!
 Here I will showcase some of the projects I have worked on thorughtout my courses and work experience.
 
 <!--
