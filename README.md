@@ -1,8 +1,7 @@
-### Hi there!
 
-### Hi there 👋, my name is Carolina
+### Hi there! my name is Carolina
 #### I am an Economist and Mathematician.
-[I am an Economist and Mathematician.]
+
 
 Here I will showcase some of the projects I have worked on thorughtout my courses and work experience.
 
