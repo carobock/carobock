@@ -1,6 +1,7 @@
 
 ### Hi there! my name is Carolina
-![I am an Economist and Mathematician](https://github.com/carobock/carobock/blob/main/Banner.PNG)
+
+<img src= "https://github.com/carobock/carobock/blob/main/Banner.PNG" width="600" />
 
 
 ### Here I will showcase some of the projects I have worked on thorughtout my courses and work experience.
