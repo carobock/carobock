@@ -1,5 +1,5 @@
 
-### Hi there! my name is Carolina
+### Hi there! my name is Carolina.
 
 <img src= "https://github.com/carobock/carobock/blob/main/Banner.PNG" width="600" />
 
